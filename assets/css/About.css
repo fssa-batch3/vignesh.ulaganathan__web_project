@@ -1,0 +1,221 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.head {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.logo {
+  flex: 1;
+  display: flex;
+  margin-left: 50px;
+}
+.freshworks-1 {
+  display: flex;
+  align-items: center;
+  background-color: #0b1320;
+}
+.freshworks {
+  color: whitesmoke;
+  font-size: 25px;
+  padding-top: 35px;
+}
+a {
+  justify-content: space-between;
+  padding: 30px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+.navbar {
+  display: flex;
+  margin-left: 450px;
+}
+.header {
+  padding-left: 500px;
+  padding-top: 80px;
+  font-size: 20px;
+}
+.vicky {
+  position: relative;
+}
+.vignesh {
+  font-size: 30px;
+  background-color: ivory;
+  padding-top: 10px;
+  text-align: center;
+}
+.content {
+  text-align: center;
+  padding-left: 230px;
+  padding-top: 15px;
+}
+.vicky-1 {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.image {
+  margin-left: 30%;
+  margin-top: 80px;
+}
+
+.name {
+  margin-left: 33%;
+}
+.iamge-1 {
+  position: relative;
+  margin-left: 55%;
+  bottom: 330px;
+}
+.name-1 {
+  position: relative;
+  margin-left: 52%;
+  bottom: 320px;
+}
+.vicky-2 {
+  margin-left: 40%;
+  bottom: 70px;
+  position: relative;
+}
+.started {
+  background-color: ivory;
+  padding: 100px;
+}
+.content-1 {
+  font-size: 25px;
+  margin-left: 10%;
+  position: relative;
+  bottom: 130px;
+  text-align: center;
+}
+.vision {
+  background-color: ivory;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.content-2 {
+  font-size: 25px;
+  text-align: center;
+  background-color: ivory;
+  padding-bottom: 30px;
+  top: 20px;
+}
+.content-3 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 100px;
+  text-align: center;
+  background-color: ivory;
+  padding-top: 20px;
+}
+.vicky-3 {
+  background-color: ivory;
+}
+.vicky-4 {
+  font-size: 22px;
+  text-align: center;
+  margin-top: 100px;
+  background-color: ivory;
+  padding: 10px;
+  padding-right: 25%;
+}
+
+.internet {
+  background-color: ivory;
+  padding-bottom: 20px;
+}
+.account {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 180px;
+  border: 1px solid black;
+  position: relative;
+  text-align: center;
+  padding: 8px;
+  bottom: 410px;
+  left: 290px;
+  margin-right: 36%;
+  background-color: aqua;
+  color: black;
+  margin-left: 40%;
+}
+.Subscribe {
+  border: 1px solid black;
+  margin-right: 35px;
+  margin-left: 35px;
+  color: whitesmoke;
+}
+.Subscribe:hover {
+  color: black;
+  transition: 0.5s;
+}
+.facebook {
+  margin-left: 19%;
+  margin-top: 30px;
+}
+.twitter {
+  margin-left: 10px;
+}
+.instagram {
+  margin-left: 10px;
+}
+.E-mail {
+  margin-left: 10px;
+}
+.content-4 {
+  font-weight: bold;
+  margin-left: 15%;
+  font-size: 35px;
+  bottom: 100px;
+}
+.content-5 {
+  font-size: 25px;
+  margin-left: 15%;
+  margin-top: 40px;
+  font-weight: inherit;
+}
+.image-2 {
+  margin-left: 70%;
+  position: relative;
+  bottom: 100px;
+}
+.content-6 {
+  margin-left: 70%;
+  bottom: 60px;
+  font-size: 30px;
+  position: relative;
+}
+.allimage {
+  margin-left: 63%;
+  position: relative;
+  bottom: 70px;
+}
+.facebook,
+.twitter,
+.insagram,
+.E-mail {
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 10px;
+  height: 40px;
+}
+.site-2 {
+  margin-bottom: 30%;
+  margin-left: 19%;
+  margin-top: 20px;
+}
+.site-1 {
+  margin-left: 20%;
+}
+.content-7 {
+  font-size: 25px;
+}
+.site-3 {
+  margin-top: 30px;
+  font-size: 18px;
+  font-weight: bold;
+}

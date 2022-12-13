@@ -1,0 +1,238 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.head {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.logo {
+  flex: 1;
+  display: flex;
+  margin-left: 50px;
+}
+.freshworks-1 {
+  display: flex;
+  align-items: center;
+  background-color: #0b1320;
+}
+.freshworks {
+  color: whitesmoke;
+  font-size: 25px;
+  padding-top: 35px;
+}
+a {
+  justify-content: space-between;
+  padding: 30px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+.navbar {
+  display: flex;
+  margin-left: 450px;
+}
+.header {
+  padding-left: 500px;
+  padding-top: 80px;
+  font-size: 20px;
+}
+.logo-1 {
+  flex: 2;
+  position: relative;
+  right: 350px;
+}
+.logo-1 img {
+  padding-left: 450px;
+}
+.account-1 {
+  display: flex;
+}
+.account {
+  font-size: 20px;
+  font-weight: bold;
+  right: 500px;
+  margin-top: 180px;
+  border: 1px solid black;
+  position: relative;
+  right: 200px;
+  bottom: 100px;
+  text-align: center;
+  padding: 4px;
+  background-color: aqua;
+}
+.log-in {
+  width: 100px;
+  padding: 4px;
+  border: 5px;
+  margin: 0;
+  left: 125px;
+  position: relative;
+  background-color: whitesmoke;
+  bottom: 6px;
+  border-radius: 15px;
+}
+.log-in:hover {
+  color: ghostwhite;
+  transition: 0.5s;
+}
+.account-2 {
+  width: 400px;
+}
+.academy-content {
+  margin-bottom: 30px;
+  position: relative;
+  font-size: 20px;
+  font-weight: bold;
+  width: 500px;
+  margin-left: 35%;
+  margin-top: 70px;
+}
+
+.vicky:hover {
+  color: tomato;
+  transition: 0.5s;
+}
+.vicky-1 {
+  margin-left: 90px;
+}
+.btn {
+  margin-left: 50px;
+}
+.students {
+  font-size: 20px;
+  width: 300px;
+  margin-left: 50px;
+}
+.Trusted {
+  margin-left: 200px;
+  margin-bottom: 10px;
+}
+.whole-div {
+  display: flex;
+}
+.btn-1 {
+  padding-left: 20px;
+  padding-bottom: 2px;
+}
+.students-1 {
+  font-size: 20px;
+  width: 400px;
+  margin-right: 50px;
+}
+.teachers {
+  margin-left: 50px;
+}
+.btn-2 {
+  margin-bottom: 50px;
+}
+.students-2 {
+  font-size: 20px;
+  width: 400px;
+  padding-bottom: 50px;
+}
+.image-1 {
+  margin-left: 200px;
+  border-radius: 10px solid black;
+}
+.name {
+  margin-left: 15%;
+}
+.coches {
+  margin-top: 50px;
+}
+.coches-1 {
+  margin-left: 35%;
+  padding-top: 20px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.name-1 {
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
+.coches-2 {
+  margin-left: 13%;
+}
+.name-2 {
+  padding-left: 30px;
+}
+.coche {
+  margin-left: 70%;
+  bottom: 50%;
+}
+.teacher-1 {
+  position: relative;
+  width: 100%;
+  bottom: 700px;
+}
+.teacher-2 {
+  margin-left: 60%;
+  font-size: 40px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+.teacher-3 {
+  font-size: 20px;
+  margin-left: 60%;
+  margin-top: 70px;
+}
+.start {
+  margin-left: 65%;
+  font-size: 30px;
+  margin-top: 100px;
+  font-weight: bold;
+  border-radius: 2px;
+  border: 1px solid white;
+  width: 20%;
+  background-color: skyblue;
+  color: whitesmoke;
+  text-align: center;
+}
+.start:hover {
+  color: black;
+  transition: 0.5s;
+}
+.learners {
+  position: relative;
+  width: 100%;
+  bottom: 50px;
+  margin-left: 20%;
+}
+.anything {
+  margin-left: 20%;
+  font-size: 40px;
+}
+.student-learning {
+  position: relative;
+  bottom: 340px;
+}
+.vicky-4 {
+  margin-left: 20%;
+  padding-top: 20px;
+  font-size: 20px;
+}
+.vicky-5 {
+  margin-left: 20%;
+  font-size: 30px;
+  margin-top: 80px;
+  font-weight: bold;
+  border-radius: 2px;
+  border: 1px solid white;
+  width: 20%;
+  background-color: skyblue;
+  color: whitesmoke;
+  text-align: center;
+}
+.vicky-5:hover {
+  color: black;
+  transition: 0.5s;
+}
+.bigimage {
+  margin-left: 50%;
+  position: relative;
+  bottom: 400px;
+}
